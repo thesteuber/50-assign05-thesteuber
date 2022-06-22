@@ -45,7 +45,7 @@ Task 2 [10 points] Calculate the financial value of your models based on the fol
 
 #### Part 2
 
-Fill in the name of your personal project here:
+Fill in the name of your personal project here: 50-steuber-mlproj-salability (https://github.com/vanderbilt-ml/50-steuber-mlproj-salability)
 
 Complete the following issues created in your personal project repository:
 
